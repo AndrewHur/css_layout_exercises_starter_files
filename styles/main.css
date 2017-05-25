@@ -6,3 +6,56 @@ body * {
 a {
   text-decoration: none;
 }
+
+ body {
+  font-size: 0;
+}
+
+.frame{
+	width: 800px;
+	margin:0 auto;
+
+}
+
+.bd {
+	border: black solid 1px;
+	display: inline-block;
+}
+
+.top {
+	width:50%;
+	height: 200px;
+}
+
+.bottom {
+	width:33.33%;
+	height: 300px;
+}
+
+.greenbox {
+	background: green;
+}
+
+.bluebox {
+	background: blue;
+
+}
+
+.greybox {
+	background: grey;
+
+}
+
+.blackbox {
+	background: black;
+
+}
+
+.orangebox {
+	background: orange;
+
+}
+
+.centered {
+  text-align: center;
+}
